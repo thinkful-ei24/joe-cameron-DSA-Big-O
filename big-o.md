@@ -13,4 +13,5 @@
 5. Creating Pairs
   O(n^2) because we have a nested for loop
   
-    
+6. Creating Fibonacci
+  O(n) because the number of operations depend on the argument number
