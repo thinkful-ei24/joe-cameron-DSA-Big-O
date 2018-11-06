@@ -18,3 +18,6 @@
 
 7. Efficient Search
   O(log(n)) because we are splitting our array length in half each iteration  
+
+8. Random Element
+  O(1) because it searches the array once, with a random index, then returns element
