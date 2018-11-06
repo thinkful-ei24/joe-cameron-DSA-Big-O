@@ -24,3 +24,20 @@
 
 9. Is it prime?
   O(n) since we are testing each number less than our input number  
+
+10. Counting Sheep (R)
+  O(n) Dependent on the value of the argument.
+
+11. Array Double (R)
+  O(n) Dependent on the length of the array.
+
+12. Reverse String (R)
+  O(n) Dependent on the length of the string.
+
+13. Triangular Number (R)
+  O(n) Dependent on the value of parameter.
+
+14. String Splitter (R)
+  O(n) Dependent on string size for recursive looping.
+
+15.
