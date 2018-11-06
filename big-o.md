@@ -21,3 +21,6 @@
 
 8. Random Element
   O(1) because it searches the array once, with a random index, then returns element
+
+9. Is it prime?
+  O(n) since we are testing each number less than our input number  
