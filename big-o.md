@@ -15,3 +15,6 @@
   
 6. Creating Fibonacci
   O(n) because the number of operations depend on the argument number
+
+7. Efficient Search
+  O(log(n)) because we are splitting our array length in half each iteration  
