@@ -76,4 +76,8 @@
 26. Binary (I)
   O(Log(n)) Loop action increases by less the higher the argument number is
 
-27.
+27. Factorial (I)
+  O(n) because the size of our for loop is the magnitude of our number
+
+28. Fibonacci (I)
+  O(n) because the loop has a length of our input argument  
