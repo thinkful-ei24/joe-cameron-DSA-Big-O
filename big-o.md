@@ -9,3 +9,8 @@
 
 4. Naive Search
   O(n) because we are looping through the entire array
+
+5. Creating Pairs
+  O(n^2) because we have a nested for loop
+  
+    
