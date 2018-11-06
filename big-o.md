@@ -46,5 +46,15 @@
 16. Factorial (R)
   O(n) because we run n recurions
 
-17. Fibonacci
+17. Fibonacci (R)
   O(2^n) because as n gets larger, it will take almost double the number of recursions as the previous n (the sum of the number of recursions for (n-1) and (n-2))
+
+18. Anagrams (R)
+  O(n!) because we will have n nested for loops with each loop having a length decreasing by 1
+
+19. Animal Heirarchy (R)
+  O(n) because we are only going through each item once, just not necessarily in order
+
+20. Organization Chart (R)
+  O(n) because we are only going through each item once, just not necessarily in order
+
