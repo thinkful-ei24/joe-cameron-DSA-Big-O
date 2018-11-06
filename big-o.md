@@ -58,3 +58,22 @@
 20. Organization Chart (R)
   O(n) because we are only going through each item once, just not necessarily in order
 
+21. Counting Sheep (I) 
+  O(n) The higher the number the more -- that occur.
+
+22. Array Doubler (I)
+  O(n) Dependent on length of array given.
+
+23. String Reverser (I) 
+  O(n) Dependent on string length
+
+24. Triangle (I)
+  O(n) Dependent on size of number
+
+25. String Seperator (I)
+  O(n) Loop dependent on size of string.
+
+26. Binary (I)
+  O(Log(n)) Loop action increases by less the higher the argument number is
+
+27.
