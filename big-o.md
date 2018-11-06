@@ -7,3 +7,5 @@
 3. Doubler
   O(n) because we are looping through the array once  
 
+4. Naive Search
+  O(n) because we are looping through the entire array
