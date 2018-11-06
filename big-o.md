@@ -40,4 +40,11 @@
 14. String Splitter (R)
   O(n) Dependent on string size for recursive looping.
 
-15.
+15. Binary Representation (R)
+  O(log(n)) because the number of recursions grows like log_2
+
+16. Factorial (R)
+  O(n) because we run n recurions
+
+17. Fibonacci
+  O(2^n) because as n gets larger, it will take almost double the number of recursions as the previous n (the sum of the number of recursions for (n-1) and (n-2))
